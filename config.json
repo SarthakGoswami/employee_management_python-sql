@@ -1,5 +1,5 @@
 {
-    "pass": "123456789",
+    "pass": "password",
     "user": "root",
     "host": "localhost",
     "database": "employees"
